@@ -1,0 +1,4 @@
+appId: com.yahaaylabs.Ewy
+publish:
+  provider: github
+  token: [YOUR GITHUB ACCESS TOKEN]
